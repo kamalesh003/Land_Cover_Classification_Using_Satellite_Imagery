@@ -26,7 +26,7 @@ Dataset: http://madm.dfki.de/files/sentinel/EuroSAT.zip
 
 
 
-# Model Acuracy and Loss
+# Model Acuracy and Loss Graph
 
 <img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/4d92541d-ff1d-4c03-9db1-393812d66918" />
 
@@ -39,10 +39,13 @@ Test accuracy: 0.7912963032722473
 ```
 
 
+# Prediction
 
 <img width="416" height="435" alt="image" src="https://github.com/user-attachments/assets/9566ce94-9f14-46f4-92e4-d1f21215d535" />
 
 ```bash
+1/1 [==============================] - 0s 138ms/step
+Predicted Class Index: 7
 Predicted Class Name: b'Residential'
 ```
 
