@@ -1,4 +1,7 @@
 # Land_Cover_Classification_Using_CNN
+
+The workflow involves preprocessing satellite images, including normalization and resizing, followed by the extraction of relevant features for classification. A convolutional neural network (CNN) is employed to learn spatial patterns and spectral signatures associated with various land cover classes.
+
 Dataset: http://madm.dfki.de/files/sentinel/EuroSAT.zip
 
 # Land Cover Types
